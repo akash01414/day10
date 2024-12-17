@@ -1,0 +1,30 @@
+.A{
+    position: fixed;
+    top:10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    background-color: peru;
+    width: 100%;
+   
+}
+.B{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    
+}
+.P{
+    position: relative;
+    top:18rem;
+    left: 13rem;
+}
+.Q{
+    position: relative;
+    top: 9rem;
+}
+.T{
+    position: relative;
+    top:18rem;
+    left: -13rem;
+}
